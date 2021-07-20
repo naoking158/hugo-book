@@ -38,23 +38,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: calc(1.6rem + 0.1vw);
+    font-size: calc(1.6rem + 0.05vw);
 }
 
 h2 {
-	font-size: calc(1.4rem + 0.1vw);
+	font-size: calc(1.4rem + 0.05vw);
 	border-left: solid 5px #C0C0C0;
 	padding: 0.1rem 0.5rem;
 }
 
 h3 {
-	font-size: calc(1.2rem + 0.1vw);
+	font-size: calc(1.2rem + 0.05vw);
 	border-left: solid 5px #D0D0D0;
 	padding: 0.1rem 0.5rem;
 }
 
 h4 {
-	font-size: calc(1.0rem + 0.1vw);
+	font-size: calc(1.0rem + 0.05vw);
 	border-left: solid 5px #E0E0E0;
 	padding: 0.1rem 0.5rem;
 }

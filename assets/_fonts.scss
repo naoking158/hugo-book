@@ -23,11 +23,11 @@
 
 body {
     font-family: 'Hiragino Sans', 'Yu Gothic', sans-serif;
-    font-size: calc(1rem + 0.01vw);
+    font-size: calc(1rem + 0.005vw);
 }
 
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css);
 code {
     font-family: 'Fira Code', monospace;
-    font-size: calc(1rem + 0.01vw);
+    font-size: calc(1rem + 0.005vw);
 }
