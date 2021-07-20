@@ -1,3 +1,9 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+@import "nord.scss";
+
+body {
+  background-color: $nord6;
+  color: $nord0;
+}
