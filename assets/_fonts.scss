@@ -1,42 +1,10 @@
-/* Yu Gothic-regular */
-@font-face {
-  font-family: 'Yu Gothic';
-  font-style: normal;
-  font-weight: 450;
-  font-display: swap;
-}
-
-/* Yu Gothic-750 */
-@font-face {
-  font-family: 'Yu Gothic';
-  font-style: normal;
-  font-weight: 750;
-  font-display: swap;
-}
-
-/* Hiragino Sans-regular */
-@font-face {
-  font-family: 'Hiragino Sans';
-  font-style: normal;
-  font-weight: 320;
-  font-display: swap;
-}
-
-/* Hiragino Sans-700 */
-@font-face {
-  font-family: 'Hiragino Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
-
 body {
-    font-family: 'Hiragino Sans', 'Yu Gothic', sans-serif;
-    font-size: calc(1rem + 0.001vw);
+    font-family: 'Hiragino Sans', 'YuGothic', sans-serif;
+    font-size: 1rem;
 }
 
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css);
 code {
     font-family: 'Fira Code', monospace;
-    font-size: calc(1rem + 0.001vw);
+    font-size: 1rem;
 }
